@@ -26,10 +26,10 @@ curl -X POST "https://apply.workable.com/api/v3/accounts/huggingface/jobs" \
 
 Every gotcha above is handled in ready-made tools (disclosure: built by the author of this guide):
 
-- **[ATS Jobs Scraper](https://apify.com/signalfeed/ats-jobs-scraper)**: all 7 platforms, auto-detect, one normalized format. $1 per 1,000 jobs.
-- **[Tech & Startup Job Search](https://apify.com/signalfeed/tech-job-search)**: keyword search across 4,400+ company career pages, no company list needed.
-- **[Hiring Companies Finder](https://apify.com/signalfeed/hiring-companies-finder)**: which companies are hiring for a role, ranked by matching openings.
-- **[Salary Data from Job Postings](https://apify.com/signalfeed/job-salary-data)**: published pay ranges only.
+- **[ATS Jobs Scraper](https://apify.com/signalfeed/ats-jobs-scraper?fpr=kyk4x5)**: all 7 platforms, auto-detect, one normalized format. $1 per 1,000 jobs.
+- **[Tech & Startup Job Search](https://apify.com/signalfeed/tech-job-search?fpr=kyk4x5)**: keyword search across 4,400+ company career pages, no company list needed.
+- **[Hiring Companies Finder](https://apify.com/signalfeed/hiring-companies-finder?fpr=kyk4x5)**: which companies are hiring for a role, ranked by matching openings.
+- **[Salary Data from Job Postings](https://apify.com/signalfeed/job-salary-data?fpr=kyk4x5)**: published pay ranges only.
 - **Jobs API on RapidAPI**: `GET /company` and `GET /detect` over HTTP.
 
 Apify has a free plan with monthly credit. *(Some links may be affiliate links; using them supports this guide at no cost to you.)*

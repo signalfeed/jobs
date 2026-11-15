@@ -37,6 +37,6 @@ print(items[0])
 
 ## Skip the build
 
-**[RSS & Atom Feed Reader](https://apify.com/signalfeed/rss-feed-reader)** accepts feed URLs *or* plain website addresses (feeds auto-discovered) and returns clean JSON with date and keyword filters, ready to schedule and send to Slack, Sheets or an AI agent. $0.50 per 1,000 items. *(Built by the author of this guide.)*
+**[RSS & Atom Feed Reader](https://apify.com/signalfeed/rss-feed-reader?fpr=kyk4x5)** accepts feed URLs *or* plain website addresses (feeds auto-discovered) and returns clean JSON with date and keyword filters, ready to schedule and send to Slack, Sheets or an AI agent. $0.50 per 1,000 items. *(Built by the author of this guide.)*
 
 [← Home](README.md)

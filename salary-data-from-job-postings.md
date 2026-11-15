@@ -35,6 +35,6 @@ for j in jobs:
 
 ## Skip the build
 
-**[Salary Data from Job Postings](https://apify.com/signalfeed/job-salary-data)** returns only jobs with published pay (min/max, currency, interval, plus the posted text) across 4,400+ company boards, filterable by role and location. $2 per 1,000 jobs. *(Built by the author of this guide.)*
+**[Salary Data from Job Postings](https://apify.com/signalfeed/job-salary-data?fpr=kyk4x5)** returns only jobs with published pay (min/max, currency, interval, plus the posted text) across 4,400+ company boards, filterable by role and location. $2 per 1,000 jobs. *(Built by the author of this guide.)*
 
 [← All job-board APIs](README.md)

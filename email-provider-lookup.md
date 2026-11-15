@@ -36,6 +36,6 @@ print(email_setup("stripe.com"))
 
 ## Want registration data too?
 
-**[Domain Intelligence](https://apify.com/signalfeed/domain-intelligence)** does this for any list of domains, plus official RDAP registration data: registrar, creation and expiry dates, days until expiry and nameservers. It recognizes 25+ email providers and gateways and flags null MX. $1 per 1,000 domains. *(Built by the author of this guide.)*
+**[Domain Intelligence](https://apify.com/signalfeed/domain-intelligence?fpr=kyk4x5)** does this for any list of domains, plus official RDAP registration data: registrar, creation and expiry dates, days until expiry and nameservers. It recognizes 25+ email providers and gateways and flags null MX. $1 per 1,000 domains. *(Built by the author of this guide.)*
 
 [← Home](README.md)

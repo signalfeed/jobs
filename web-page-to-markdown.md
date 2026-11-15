@@ -28,6 +28,6 @@ print(markdown[:300])
 
 ## Skip the build
 
-**[Article & Main Content Extractor](https://apify.com/signalfeed/article-extractor)** turns any list of URLs into clean Markdown or text with title, author, date and word count, boilerplate removed. Failed URLs are free. $0.50 per 1,000 pages. *(Built by the author of this guide.)*
+**[Article & Main Content Extractor](https://apify.com/signalfeed/article-extractor?fpr=kyk4x5)** turns any list of URLs into clean Markdown or text with title, author, date and word count, boilerplate removed. Failed URLs are free. $0.50 per 1,000 pages. *(Built by the author of this guide.)*
 
 [← Home](README.md)

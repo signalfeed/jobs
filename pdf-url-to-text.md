@@ -30,6 +30,6 @@ print(len(pages), "pages;", pages[0][1][:120])
 
 ## Skip the build
 
-**[PDF Text Extractor](https://apify.com/signalfeed/pdf-text-extractor)** does this for any list of PDF URLs: one clean row per page with title, author and page count, page ranges, and scanned-PDF detection. $0.50 per 1,000 pages. *(Built by the author of this guide.)*
+**[PDF Text Extractor](https://apify.com/signalfeed/pdf-text-extractor?fpr=kyk4x5)** does this for any list of PDF URLs: one clean row per page with title, author and page count, page ranges, and scanned-PDF detection. $0.50 per 1,000 pages. *(Built by the author of this guide.)*
 
 [← Home](README.md)
