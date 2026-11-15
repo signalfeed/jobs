@@ -32,4 +32,6 @@ print(len(pages), "pages;", pages[0][1][:120])
 
 **[PDF Text Extractor](https://apify.com/signalfeed/pdf-text-extractor?fpr=kyk4x5)** does this for any list of PDF URLs: one clean row per page with title, author and page count, page ranges, and scanned-PDF detection. $0.50 per 1,000 pages. *(Built by the author of this guide.)*
 
+Need a whole website or a folder of PDFs converted for a chatbot? I do it to order: [AI-ready Markdown from your website and PDFs](https://www.fiverr.com/arabinowe/convert-your-website-and-pdfs-into-ai-ready-markdown-for-chatgpt-or-rag).
+
 [← Home](README.md)
