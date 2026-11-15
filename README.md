@@ -135,6 +135,10 @@ Every gotcha above is handled in ready-made tools (disclosure: built by the auth
 
 Apify has a free plan with monthly credit. *(Some links may be affiliate links; using them supports this guide at no cost to you.)*
 
+## Disclosure
+
+Links to Apify are affiliate links: if you sign up for a paid Apify plan through them, the author earns a commission at no extra cost to you. The hosted tools linked here are built and sold by the author.
+
 ## License
 
 Text: CC BY 4.0. Code snippets: MIT. Corrections welcome via pull request.
