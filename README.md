@@ -136,6 +136,10 @@ Every gotcha above is handled in ready-made tools (disclosure: built by the auth
 
 Apify has a free plan with monthly credit. *(Some links may be affiliate links; using them supports this guide at no cost to you.)*
 
+## Want it done for you?
+
+I extract data from websites, careers pages and APIs to order, delivered as a clean spreadsheet: [custom data extraction on Fiverr](https://www.fiverr.com/arabinowe/scrape-any-website-or-api-into-a-clean-spreadsheet-in-24-hours), or a [B2B lead list built from company websites](https://www.fiverr.com/arabinowe/build-a-b2b-lead-list-with-emails-and-phones-from-company-websites).
+
 ## Disclosure
 
 Links to Apify are affiliate links: if you sign up for a paid Apify plan through them, the author earns a commission at no extra cost to you. The hosted tools linked here are built and sold by the author.
