@@ -118,6 +118,7 @@ curl -X POST "https://apply.workable.com/api/v3/accounts/huggingface/jobs" \
 - [How to find which email provider a company uses (MX, SPF, DMARC)](email-provider-lookup.md)
 - [How to detect a website's tech stack (CMS, analytics, CDN) in Python](website-tech-stack-lookup.md)
 - [How to extract emails, phone numbers and social links from a website](extract-emails-from-website.md)
+- [Companies hiring software engineers this week (updated weekly)](companies-hiring-this-week.md)
 - [How to build a free local business lead list with OpenStreetMap](local-business-lead-list-openstreetmap.md)
 
 ## Finding which ATS a company uses
