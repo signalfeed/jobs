@@ -119,6 +119,7 @@ curl -X POST "https://apply.workable.com/api/v3/accounts/huggingface/jobs" \
 - [How to find which email provider a company uses (MX, SPF, DMARC)](email-provider-lookup.md)
 - [How to detect a website's tech stack (CMS, analytics, CDN) in Python](website-tech-stack-lookup.md)
 - [How to extract emails, phone numbers and social links from a website](extract-emails-from-website.md)
+- [How to decode Cloudflare email protection (`[email protected]`)](decode-cloudflare-email-protection.md)
 - [How to get Indeed job listings as data, and a fresher alternative](indeed-jobs-data.md)
 - [Companies hiring software engineers this week (updated weekly)](companies-hiring-this-week.md)
 - [How to turn a whole website into data for ChatGPT, custom GPTs and RAG](website-to-chatgpt-rag-data.md)
