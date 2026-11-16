@@ -8,7 +8,7 @@ permalink: /companies-hiring-this-week/
 
 *Updated 2026-11-16.* Pulled straight from employers' own career pages (Greenhouse, Lever, Ashby and more) across 4,400+ companies, so it's fresher than job boards. Counts are open roles matching each category; company names link to their careers page.
 
-**Recruiters and sales teams:** want this list every Monday for your exact roles and cities? It's $49 a month, cancel anytime. Email [arbinowe@umich.edu](mailto:arbinowe@umich.edu?subject=Weekly%20hiring%20list) with the roles and locations you cover and I'll send a free first list. To pull it yourself, use [Hiring Companies Finder](https://apify.com/signalfeed/hiring-companies-finder?fpr=kyk4x5).
+**Recruiters and sales teams:** want this list every Monday for your exact roles and cities? It's $49 a month, cancel anytime. [Message me on Fiverr](https://www.fiverr.com/arabinowe/scrape-any-website-or-api-into-a-clean-spreadsheet-in-24-hours) with the roles and locations you cover and I'll send a free sample list first. To pull it yourself, use [Hiring Companies Finder](https://apify.com/signalfeed/hiring-companies-finder?fpr=kyk4x5).
 
 ## Software engineers, US and remote (posted in the last 7 days)
 
@@ -138,9 +138,9 @@ permalink: /companies-hiring-this-week/
 | [Clera](https://jobs.ashbyhq.com/clera) | 11 | 273 | Senior Account Executive; Account Executive; Founding Sales Development Representative |
 | [Airwallex](https://jobs.ashbyhq.com/airwallex) | 10 | 490 | Senior Account Executive, Enterprise; Account Executive, Commercial; Account Executive, Commercial (Pacific Time Zone) |
 | [Camunda](https://jobs.ashbyhq.com/camunda) | 7 | 51 | Enterprise Account Executive III - NA; Corporate Account Executive III - NA; Enterprise Account Executive - CEE |
+| [Elevenlabs](https://jobs.ashbyhq.com/elevenlabs) | 4 | 122 | Sales Development - Japan; Sales Development Lead - North America; Account Executive - Enterprise - Telecommunications |
 | [Assembledhq](https://jobs.ashbyhq.com/assembledhq) | 3 | 19 | Enterprise Account Executive; Enterprise Account Executive, West; Enterprise Sales Development Representative (SDR) |
 | [Constructor](https://jobs.ashbyhq.com/constructor) | 3 | 42 | Sales Development Representative - APAC; Account Executive - APAC; Sales Development Representative - LATAM |
-| [Elevenlabs](https://jobs.ashbyhq.com/elevenlabs) | 3 | 123 | Sales Development - Japan; Sales Development Lead - North America; Account Executive - Enterprise - Telecommunications |
 | [Arketa](https://jobs.ashbyhq.com/arketa) | 2 | 7 | Sales Development Representative; Account Executive - SMB |
 | [Coderabbit](https://jobs.ashbyhq.com/coderabbit) | 2 | 55 | Sales Development Representative - APAC (Sydney); Founding Account Executive - Enterprise - South Korea (Seoul) |
 | [Eliseai](https://jobs.ashbyhq.com/eliseai) | 2 | 111 | Sales Development Representative / Housing; Sales Development Representative / Housing |
