@@ -134,16 +134,16 @@ permalink: /companies-hiring-this-week/
 
 | Company | Open matching roles | Total open jobs | Example titles |
 |---|---|---|---|
-| [Cursor](https://jobs.ashbyhq.com/cursor) | 21 | 98 | Strategic Enterprise Account Executive - Japan; Strategic Account Executive, Federal Sales — DoW; Strategic Account Executive, Federal Sales - Australia |
+| [Cursor](https://jobs.ashbyhq.com/cursor) | 21 | 97 | Strategic Enterprise Account Executive - Japan; Strategic Account Executive, Federal Sales — DoW; Strategic Account Executive, Federal Sales - Australia |
 | [Clera](https://jobs.ashbyhq.com/clera) | 11 | 273 | Senior Account Executive; Account Executive; Founding Sales Development Representative |
-| [Airwallex](https://jobs.ashbyhq.com/airwallex) | 10 | 484 | Senior Account Executive, Enterprise; Account Executive, Commercial; Account Executive, Commercial (Pacific Time Zone) |
+| [Airwallex](https://jobs.ashbyhq.com/airwallex) | 10 | 490 | Senior Account Executive, Enterprise; Account Executive, Commercial; Account Executive, Commercial (Pacific Time Zone) |
 | [Camunda](https://jobs.ashbyhq.com/camunda) | 7 | 51 | Enterprise Account Executive III - NA; Corporate Account Executive III - NA; Enterprise Account Executive - CEE |
 | [Assembledhq](https://jobs.ashbyhq.com/assembledhq) | 3 | 19 | Enterprise Account Executive; Enterprise Account Executive, West; Enterprise Sales Development Representative (SDR) |
-| [Constructor](https://jobs.ashbyhq.com/constructor) | 3 | 41 | Sales Development Representative - APAC; Account Executive - APAC; Sales Development Representative - LATAM |
-| [Elevenlabs](https://jobs.ashbyhq.com/elevenlabs) | 3 | 125 | Sales Development - Japan; Sales Development Lead - North America; Account Executive - Enterprise - Telecommunications |
+| [Constructor](https://jobs.ashbyhq.com/constructor) | 3 | 42 | Sales Development Representative - APAC; Account Executive - APAC; Sales Development Representative - LATAM |
+| [Elevenlabs](https://jobs.ashbyhq.com/elevenlabs) | 3 | 123 | Sales Development - Japan; Sales Development Lead - North America; Account Executive - Enterprise - Telecommunications |
 | [Arketa](https://jobs.ashbyhq.com/arketa) | 2 | 7 | Sales Development Representative; Account Executive - SMB |
-| [Astronomer](https://jobs.ashbyhq.com/astronomer) | 2 | 20 | Enterprise Account Executive, Southeastern US; Strategic Account Executive, Northeast |
-| [Atlan](https://jobs.ashbyhq.com/atlan) | 2 | 7 | Enterprise Account Executive - NYC; Enterprise Account Executive - Texas |
+| [Coderabbit](https://jobs.ashbyhq.com/coderabbit) | 2 | 55 | Sales Development Representative - APAC (Sydney); Founding Account Executive - Enterprise - South Korea (Seoul) |
+| [Eliseai](https://jobs.ashbyhq.com/eliseai) | 2 | 111 | Sales Development Representative / Housing; Sales Development Representative / Housing |
 
 See also: [find companies hiring for any role yourself](companies-hiring-for-a-role.md).
 
