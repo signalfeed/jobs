@@ -26,6 +26,8 @@ The board slug is what the public APIs take, so each row is one request away fro
 
 ## Most open jobs, by platform
 
+A big number isn't always a big hiring push: some boards repeat one role per location (Svetness lists "Personal Trainer" about 5,000 times), and some post gig or volunteer work (Prolific's postings are AI-training tasks; Private Equity Insights posts event volunteers). Count distinct titles before treating a board as a hiring signal; [Hiring Companies Finder](https://apify.com/signalfeed/hiring-companies-finder?fpr=kyk4x5) matches on titles, so this noise mostly drops out.
+
 ### Greenhouse
 | Company | Open jobs | Board |
 |---|---|---|
