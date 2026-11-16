@@ -138,12 +138,12 @@ permalink: /companies-hiring-this-week/
 | [Clera](https://jobs.ashbyhq.com/clera) | 11 | 273 | Senior Account Executive; Account Executive; Founding Sales Development Representative |
 | [Airwallex](https://jobs.ashbyhq.com/airwallex) | 10 | 484 | Senior Account Executive, Enterprise; Account Executive, Commercial; Account Executive, Commercial (Pacific Time Zone) |
 | [Camunda](https://jobs.ashbyhq.com/camunda) | 7 | 51 | Enterprise Account Executive III - NA; Corporate Account Executive III - NA; Enterprise Account Executive - CEE |
-| [Fireworks](https://jobs.ashbyhq.com/fireworks) | 4 | 100 | Field Execution Partner, Account Executives; Enterprise Account Executive - Southeast (US); Enterprise Account Executive - Healthcare & Life Sciences (US -East) |
 | [Assembledhq](https://jobs.ashbyhq.com/assembledhq) | 3 | 19 | Enterprise Account Executive; Enterprise Account Executive, West; Enterprise Sales Development Representative (SDR) |
 | [Constructor](https://jobs.ashbyhq.com/constructor) | 3 | 41 | Sales Development Representative - APAC; Account Executive - APAC; Sales Development Representative - LATAM |
 | [Elevenlabs](https://jobs.ashbyhq.com/elevenlabs) | 3 | 125 | Sales Development - Japan; Sales Development Lead - North America; Account Executive - Enterprise - Telecommunications |
-| [Atlan](https://jobs.ashbyhq.com/atlan) | 2 | 7 | Enterprise Account Executive - NYC; Enterprise Account Executive - Texas |
+| [Arketa](https://jobs.ashbyhq.com/arketa) | 2 | 7 | Sales Development Representative; Account Executive - SMB |
 | [Astronomer](https://jobs.ashbyhq.com/astronomer) | 2 | 20 | Enterprise Account Executive, Southeastern US; Strategic Account Executive, Northeast |
+| [Atlan](https://jobs.ashbyhq.com/atlan) | 2 | 7 | Enterprise Account Executive - NYC; Enterprise Account Executive - Texas |
 
 See also: [find companies hiring for any role yourself](companies-hiring-for-a-role.md).
 
