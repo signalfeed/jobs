@@ -72,6 +72,7 @@ This reads an address the site publishes to every visitor; it doesn't bypass a l
 ## Skip the build
 
 - **[Website Email Scraper](https://apify.com/signalfeed/website-contact-extractor?fpr=kyk4x5)** does all four steps for any list of websites and returns one row per site with emails, phones and social profiles. $2.50 per 1,000 sites; sites that fail to load are free. *(Built by the author of this guide.)*
+- Calling from your own app? `GET /contacts?domain=acme.com` on the [SignalFeed API on RapidAPI](https://rapidapi.com/AaronRabinowe/api/jobs-api-workday-greenhouse-lever-ashby-more) returns the same emails, phones and profiles for one site per request (free tier of 50 requests a month).
 - Want a finished list instead? I build [B2B lead lists from company websites](https://www.fiverr.com/arabinowe/build-a-b2b-lead-list-with-emails-and-phones-from-company-websites) to order.
 
 Related: [extract emails, phones and social links from a website](extract-emails-from-website.md)

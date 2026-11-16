@@ -38,4 +38,6 @@ print(email_setup("stripe.com"))
 
 **[Domain Intelligence](https://apify.com/signalfeed/domain-intelligence?fpr=kyk4x5)** does this for any list of domains, plus official RDAP registration data: registrar, creation and expiry dates, days until expiry and nameservers. It recognizes 25+ email providers and gateways and flags null MX. $1 per 1,000 domains. *(Built by the author of this guide.)*
 
+For one domain at a time from code, `GET /domain?domain=acme.com` on the [SignalFeed API on RapidAPI](https://rapidapi.com/AaronRabinowe/api/jobs-api-workday-greenhouse-lever-ashby-more) returns the same data (free tier of 50 requests a month).
+
 [← Home](README.md)

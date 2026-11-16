@@ -58,6 +58,8 @@ print(site_contacts("https://plausible.io"))
 
 **[Website Contact Extractor](https://apify.com/signalfeed/website-contact-extractor?fpr=kyk4x5)** handles all of the above (obfuscation, team-page filtering, ranking the site's own inboxes first) and returns one clean row per website. $2.50 per 1,000 websites, and sites that fail to load are free. *(Built by the author of this guide.)*
 
+Need it one site at a time from your own code instead? The same extractor is an HTTP endpoint: `GET /contacts?domain=acme.com` on the [SignalFeed API on RapidAPI](https://rapidapi.com/AaronRabinowe/api/jobs-api-workday-greenhouse-lever-ashby-more) (free tier of 50 requests a month).
+
 See also: [detect a website's tech stack](website-tech-stack-lookup.md) · [find which email provider a company uses](email-provider-lookup.md)
 
 [← Home](README.md)
