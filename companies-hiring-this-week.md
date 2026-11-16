@@ -8,7 +8,7 @@ permalink: /companies-hiring-this-week/
 
 *Updated 2026-11-16.* Pulled straight from employers' own career pages (Greenhouse, Lever, Ashby and more) across 4,400+ companies, so it's fresher than job boards. Counts are open roles matching each category; company names link to their careers page.
 
-**Recruiters and sales teams:** want this list every Monday for your exact roles and cities? It's $49 a month, cancel anytime. [Message me on Fiverr](https://www.fiverr.com/arabinowe/scrape-any-website-or-api-into-a-clean-spreadsheet-in-24-hours) with the roles and locations you cover and I'll send a free sample list first. To pull it yourself, use [Hiring Companies Finder](https://apify.com/signalfeed/hiring-companies-finder?fpr=kyk4x5).
+**Recruiters and sales teams:** want this list every Monday for your exact roles and cities? It's $49 a month, cancel anytime. Email [aaron.signalfeed@gmail.com](mailto:aaron.signalfeed@gmail.com?subject=Weekly%20hiring%20list) with the roles and locations you cover and I'll send a free first list (or [message me on Fiverr](https://www.fiverr.com/arabinowe/scrape-any-website-or-api-into-a-clean-spreadsheet-in-24-hours)). To pull it yourself, use [Hiring Companies Finder](https://apify.com/signalfeed/hiring-companies-finder?fpr=kyk4x5).
 
 ## Software engineers, US and remote (posted in the last 7 days)
 

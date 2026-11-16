@@ -45,7 +45,7 @@ permalink: /companies-hiring-sales-reps/
 
 ## Get this for your own market
 
-- **Every Monday, done for you:** the same list filtered to your industries, locations and roles, with company domains, for $49 a month, cancel anytime. [Message me on Fiverr](https://www.fiverr.com/arabinowe/scrape-any-website-or-api-into-a-clean-spreadsheet-in-24-hours) with what you target and I'll send a free sample list first.
+- **Every Monday, done for you:** the same list filtered to your industries, locations and roles, with company domains, for $49 a month, cancel anytime. Email [aaron.signalfeed@gmail.com](mailto:aaron.signalfeed@gmail.com?subject=Weekly%20sales-hiring%20list) with what you target and the first list is free (or [message me on Fiverr](https://www.fiverr.com/arabinowe/scrape-any-website-or-api-into-a-clean-spreadsheet-in-24-hours)).
 - **Pull it yourself:** [Hiring Companies Finder](https://apify.com/signalfeed/hiring-companies-finder?fpr=kyk4x5) takes role keywords and locations and returns one row per company. *(Built by the author of this guide.)*
 
 See also: [companies hiring engineers this week](companies-hiring-this-week.md) · [find companies hiring for any role](companies-hiring-for-a-role.md)
