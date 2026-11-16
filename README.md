@@ -119,6 +119,7 @@ curl -X POST "https://apply.workable.com/api/v3/accounts/huggingface/jobs" \
 - [How to detect a website's tech stack (CMS, analytics, CDN) in Python](website-tech-stack-lookup.md)
 - [How to extract emails, phone numbers and social links from a website](extract-emails-from-website.md)
 - [Companies hiring software engineers this week (updated weekly)](companies-hiring-this-week.md)
+- [How to turn a whole website into data for ChatGPT, custom GPTs and RAG](website-to-chatgpt-rag-data.md)
 - [How to get business leads from Google Maps (no code), plus a free alternative](google-maps-business-leads.md)
 - [How to build a free local business lead list with OpenStreetMap](local-business-lead-list-openstreetmap.md)
 
