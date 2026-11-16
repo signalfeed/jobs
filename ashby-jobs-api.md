@@ -29,7 +29,7 @@ Every gotcha above is handled in ready-made tools (disclosure: built by the auth
 - **[Tech & Startup Job Search](https://apify.com/signalfeed/tech-job-search?fpr=kyk4x5)**: keyword search across 4,400+ company career pages, no company list needed.
 - **[Hiring Companies Finder](https://apify.com/signalfeed/hiring-companies-finder?fpr=kyk4x5)**: which companies are hiring for a role, ranked by matching openings.
 - **[Salary Data from Job Postings](https://apify.com/signalfeed/job-salary-data?fpr=kyk4x5)**: published pay ranges only.
-- **Jobs API on RapidAPI**: `GET /company` and `GET /detect` over HTTP.
+- **[Jobs API on RapidAPI](https://rapidapi.com/AaronRabinowe/api/jobs-api-workday-greenhouse-lever-ashby-more)**: `GET /company` (every open job at a company), `GET /detect` (which ATS it uses), `GET /contacts` and `GET /domain` over plain HTTP. Free tier of 50 requests a month; paid plans from $9.99. *(Built by the author of this guide.)*
 
 Apify has a free plan with monthly credit. *(Some links may be affiliate links; using them supports this guide at no cost to you.)*
 
