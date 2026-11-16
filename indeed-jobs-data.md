@@ -20,7 +20,7 @@ Indeed has no open public API for job search, so job boards, recruiters and rese
 
 ## Option 2: Go straight to the employer (fresher, cleaner, cheaper)
 
-Indeed mostly re-posts jobs that companies publish on their own career pages, which usually run on Greenhouse, Lever, Ashby or Workday. Those systems expose **public JSON endpoints**, so you can read the original posting directly:
+Many Indeed listings are copies of jobs that companies publish on their own career pages, which often run on Greenhouse, Lever, Ashby or Workday. Those systems expose **public JSON endpoints**, so you can read the original posting directly:
 
 - **Fresher:** jobs appear on the employer's board first, often days before aggregators.
 - **No duplicates or sponsored noise:** one posting per job, from the source.
