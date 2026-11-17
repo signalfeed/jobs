@@ -153,6 +153,10 @@ I extract data from websites, careers pages and APIs to order, delivered as a cl
 
 Links to Apify are affiliate links: if you sign up for a paid Apify plan through them, the author earns a commission at no extra cost to you. The hosted tools linked here are built and sold by the author.
 
+## Also from the author
+
+- [Free PDF accessibility quick check](https://arabinowe.github.io/pdf-accessibility/) and a plain-English guide to [ADA Title II and public-sector PDFs](https://arabinowe.github.io/pdf-accessibility/title-ii-pdf-guide.html).
+
 ## License
 
 Text: CC BY 4.0. Code snippets: MIT. Corrections welcome via pull request.
