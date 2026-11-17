@@ -216,9 +216,21 @@ section.block::before { content: ""; position: absolute; inset: 0; pointer-event
 .btn-primary { box-shadow: 0 0 0 1px rgba(255,255,255,.2), 0 0 24px rgba(143,176,255,.35); }
 @media (prefers-reduced-motion: reduce) { .scan, .hud .dot { animation: none; } .scan { display: none; } }
 
+/* ---------- Scroll-driven background stage (Apple-style tone shift) ---------- */
+html { background: #05070d; }
+body { background: transparent; }
+.bg-stage { position: fixed; inset: 0; z-index: -10; pointer-events: none;
+  background: radial-gradient(1100px 760px at var(--gx, 25%) var(--gy, 20%), var(--glow, rgba(37,65,178,.22)), transparent 62%),
+              radial-gradient(900px 700px at calc(100% - var(--gx, 25%)) calc(100% - var(--gy, 20%)), var(--glow2, rgba(20,150,130,.10)), transparent 60%),
+              var(--stage, #05070d); }
+section.block.alt { background: rgba(255,255,255,.025); }
+.hero-x::after { background: linear-gradient(90deg, rgba(5,7,13,.92) 0%, rgba(5,7,13,.74) 38%, rgba(5,7,13,.12) 70%, rgba(5,7,13,0) 100%), linear-gradient(180deg, transparent 75%, rgba(5,7,13,.35)); }
+.article-head { background: radial-gradient(900px 340px at 85% -20%, rgba(143,176,255,.16), transparent 70%); }
+.site-footer { background: rgba(0,0,0,.25); }
+
 /* ---------- Docs / code (job-board guide) ---------- */
 .prose h1 { font-size: clamp(30px, 4.2vw, 46px); line-height: 1.1; letter-spacing: -.025em; margin: 0 0 18px; color: var(--ink); }
-.prose pre, .prose .highlight pre { background: #0b1120; border: 1px solid var(--line-strong); border-radius: 12px; padding: 16px 18px; white-space: pre-wrap; word-break: break-word; font: 14px/1.6 var(--mono); color: #dbe4f5; }
+.prose pre, .prose .highlight pre { background: rgba(5,8,18,.85); border: 1px solid var(--line-strong); border-radius: 12px; padding: 16px 18px; white-space: pre-wrap; word-break: break-word; font: 14px/1.6 var(--mono); color: #dbe4f5; }
 .prose .highlighter-rouge { margin: 14px 0 20px; }
 .prose pre code { background: none; border: 0; padding: 0; font-size: inherit; color: inherit; }
 .highlight .k, .highlight .kd, .highlight .kn, .highlight .kc, .highlight .ow { color: #9db8ff; }
