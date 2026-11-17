@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+<meta name="theme-color" content="#05070d">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="wrap">
+<a class="brand" href="{{ '/' | relative_url }}" aria-label="SignalFeed Job Data home"><svg viewBox="0 0 32 32" aria-hidden="true" focusable="false"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8fb0ff"/><stop offset="1" stop-color="#6ff0d2"/></linearGradient></defs><rect x="1" y="1" width="30" height="30" rx="9" fill="none" stroke="url(#lg)" stroke-width="2"/><path d="M7 20c3-6 5-6 8 0s5 6 10-8" fill="none" stroke="url(#lg)" stroke-width="2.4" stroke-linecap="round"/></svg><span>SignalFeed <span class="mono" style="color:var(--accent-2)">// Job data</span></span></a>
+<nav class="nav" aria-label="Main">
+<a class="hide-sm" href="{{ '/' | relative_url }}">API guide</a>
+<a class="hide-sm" href="{{ '/companies-hiring-this-week/' | relative_url }}">Hiring signals</a>
+<a class="hide-sm" href="https://arabinowe.github.io/pdf-accessibility/">Accessibility</a>
+<a class="btn btn-primary" href="mailto:aaron.signalfeed@gmail.com?subject=Data%20request">Request data</a>
+</nav></div></header>
+<main id="main">
+<div class="article-head"><div class="wrap">
+<p class="crumbs"><a href="{{ '/' | relative_url }}">SignalFeed</a> / Job data guide</p>
+<p class="mono"><span style="display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--accent-2);margin-right:8px;vertical-align:1px"></span>Public ATS endpoints · tested code · sources linked</p>
+</div></div>
+<div class="wrap article">
+<article class="prose">
+{{ content }}
+</article>
+<aside class="aside" aria-label="Related">
+<div class="card"><h2>ATS endpoints</h2><ul>
+<li><a href="{{ '/greenhouse-jobs-api/' | relative_url }}">Greenhouse</a></li>
+<li><a href="{{ '/lever-jobs-api/' | relative_url }}">Lever</a></li>
+<li><a href="{{ '/ashby-jobs-api/' | relative_url }}">Ashby</a></li>
+<li><a href="{{ '/workday-jobs-api/' | relative_url }}">Workday</a></li>
+<li><a href="{{ '/smartrecruiters-jobs-api/' | relative_url }}">SmartRecruiters</a></li>
+<li><a href="{{ '/recruitee-jobs-api/' | relative_url }}">Recruitee</a></li>
+<li><a href="{{ '/workable-jobs-api/' | relative_url }}">Workable</a></li>
+</ul></div>
+<div class="card"><h2>Need the data done for you?</h2><p>Custom job, hiring-signal and company datasets as clean CSV or JSON.</p><a class="btn btn-ghost" href="mailto:aaron.signalfeed@gmail.com?subject=Data%20request">Request a sample</a></div>
+</aside>
+</div>
+</main>
+<footer class="site-footer"><div class="wrap">
+<div><a class="brand" href="{{ '/' | relative_url }}"><span>SignalFeed</span></a><p>Clean, source-linked data and accessible documents.</p></div>
+<nav aria-label="Footer"><a href="{{ '/' | relative_url }}">Job data guide</a><a href="https://arabinowe.github.io/pdf-accessibility/">Document accessibility</a><a href="mailto:aaron.signalfeed@gmail.com">Email</a></nav>
+</div></footer>
+</body>
+</html>
