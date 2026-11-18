@@ -16,6 +16,8 @@ A free list of **4,483 companies** whose careers pages run on one of the three a
 
 **[Download the CSV](ats-companies.csv)**: company, platform, board slug, careers-page URL and the open-job count when last checked (November 2026).
 
+**Need more than the basic list?** The [full dataset](https://signalfeed.gumroad.com/l/eriec) ($29) adds top departments and locations with counts, example job titles, newest posting date, a one-row-per-department file and JSON, re-checked live on November 17, 2026.
+
 The board slug is what the public APIs take, so each row is one request away from that company's live jobs: see the [Greenhouse](greenhouse-jobs-api.md), [Lever](lever-jobs-api.md) and [Ashby](ashby-jobs-api.md) guides.
 
 ## What people use it for
