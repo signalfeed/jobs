@@ -1,7 +1,7 @@
-title: Job Board APIs
+title: SignalFeed Job Data
 description: Get jobs from Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Recruitee and Workable using free public endpoints.
-url: https://arabinowe.github.io
-baseurl: /job-board-apis
+url: https://signalfeed.github.io
+baseurl: /jobs
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-sitemap

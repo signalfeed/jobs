@@ -86,6 +86,6 @@ For the hard cases, layout-model tools such as [Docling](https://github.com/docl
 - Only need the text of PDFs at public URLs? **[PDF Text Extractor](https://apify.com/signalfeed/pdf-text-extractor?fpr=kyk4x5)** returns one row per page with scanned-PDF detection, $0.50 per 1,000 pages. *(Built by the author of this guide.)*
 - Want the full pipeline above run for you? I convert PDF sets into Markdown, per-page and per-chunk JSONL and a quality report, with a free 20-page sample first: **[PDFs to clean Markdown or JSON on Fiverr](https://www.fiverr.com/arabinowe/convert-your-pdfs-into-clean-markdown-or-json-for-rag-and-llms)**.
 
-Related: [turn a whole website into data for ChatGPT and RAG](website-to-chatgpt-rag-data.md) · [extract text from a PDF URL](pdf-url-to-text.md) · [free PDF accessibility quick check (tags, alt text, language)](https://arabinowe.github.io/pdf-accessibility/)
+Related: [turn a whole website into data for ChatGPT and RAG](website-to-chatgpt-rag-data.md) · [extract text from a PDF URL](pdf-url-to-text.md) · [free PDF accessibility quick check (tags, alt text, language)](https://signalfeed.github.io/)
 
 [← Home](README.md)
