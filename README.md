@@ -123,7 +123,7 @@ curl -X POST "https://apply.workable.com/api/v3/accounts/huggingface/jobs" \
 - [How to decode Cloudflare email protection (`[email protected]`)](decode-cloudflare-email-protection.md)
 - [How to get Indeed job listings as data, and a fresher alternative](indeed-jobs-data.md)
 - [Companies hiring software engineers this week (updated weekly)](companies-hiring-this-week.md)
-- [Companies using Greenhouse, Lever and Ashby: free list of 4,483 job boards (CSV)](companies-using-greenhouse-lever-ashby.md)
+- [Companies using Greenhouse, Lever and Ashby: 4,483 job boards (free 300-row sample CSV)](companies-using-greenhouse-lever-ashby.md)
 - [Companies hiring sales reps this week: who is adding AEs and SDRs (updated weekly)](companies-hiring-sales-reps.md)
 - [How to turn a whole website into data for ChatGPT, custom GPTs and RAG](website-to-chatgpt-rag-data.md)
 - [How to get business leads from Google Maps (no code), plus a free alternative](google-maps-business-leads.md)
