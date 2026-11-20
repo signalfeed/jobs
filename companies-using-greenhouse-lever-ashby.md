@@ -1,12 +1,12 @@
 ---
-title: "Companies using Greenhouse, Lever and Ashby: free list of 4,483 job boards (CSV)"
-description: "Download a free CSV of 4,483 companies whose careers pages run on Greenhouse (3,272), Ashby (1,000) or Lever (211), with board slugs and careers-page URLs. Use it to pull jobs, find hiring companies, or prospect."
+title: "Companies using Greenhouse, Lever and Ashby: 4,483 job boards (free 300-row sample CSV)"
+description: "4,483 companies whose careers pages run on Greenhouse (3,272), Ashby (1,000) or Lever (211). Free 300-row sample CSV with board slugs and careers-page URLs; the full list is a $29 dataset."
 permalink: /companies-using-greenhouse-lever-ashby/
 ---
 
 # Companies using Greenhouse, Lever and Ashby
 
-A free list of **4,483 companies** whose careers pages run on one of the three applicant tracking systems with open, public job APIs:
+We track **4,483 companies** whose careers pages run on one of the three applicant tracking systems with open, public job APIs:
 
 | Platform | Companies |
 |---|---|
@@ -14,9 +14,9 @@ A free list of **4,483 companies** whose careers pages run on one of the three a
 | Ashby | 1,000 |
 | Lever | 211 |
 
-**[Download the CSV](ats-companies.csv)**: company, platform, board slug, careers-page URL and the open-job count when last checked (November 2026).
+**[Download a free 300-row sample (CSV)](ats-companies.csv)**: company, platform, board slug, careers-page URL and the open-job count when last checked (November 2026), for every 14th company in the list.
 
-**Need more than the basic list?** The [full dataset](https://signalfeed.gumroad.com/l/eriec) ($29) adds top departments and locations with counts, example job titles, newest posting date, a one-row-per-department file and JSON, re-checked live on November 17, 2026. See exactly what you get first: [free 25-row sample (CSV)]({{ site.baseurl }}/downloads/full-dataset-sample-25.csv), same columns as the paid file.
+**Want all 4,483?** The [full dataset](https://signalfeed.gumroad.com/l/eriec) ($29) has every company, and adds top departments and locations with counts, example job titles, newest posting date, a one-row-per-department file and JSON, re-checked live on November 17, 2026. See exactly what you get first: [free 25-row sample (CSV)]({{ site.baseurl }}/downloads/full-dataset-sample-25.csv), same columns as the paid file.
 
 The board slug is what the public APIs take, so each row is one request away from that company's live jobs: see the [Greenhouse](greenhouse-jobs-api.md), [Lever](lever-jobs-api.md) and [Ashby](ashby-jobs-api.md) guides.
 
