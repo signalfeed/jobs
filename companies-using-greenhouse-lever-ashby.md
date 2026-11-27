@@ -1,6 +1,6 @@
 ---
 title: "Companies using Greenhouse, Lever and Ashby: 4,483 job boards (free 300-row sample CSV)"
-description: "4,483 companies whose careers pages run on Greenhouse (3,272), Ashby (1,000) or Lever (211). Free 300-row sample CSV with board slugs and careers-page URLs; the full list is a $29 dataset."
+description: "4,483 companies whose careers pages run on Greenhouse (3,272), Ashby (1,000) or Lever (211). Free 300-row sample CSV with board slugs and careers-page URLs; the 4,375 hiring on Nov 17, 2026 are a $29 dataset."
 permalink: /companies-using-greenhouse-lever-ashby/
 ---
 
