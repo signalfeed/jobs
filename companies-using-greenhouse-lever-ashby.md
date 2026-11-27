@@ -14,9 +14,9 @@ We track **4,483 companies** whose careers pages run on one of the three applica
 | Ashby | 1,000 |
 | Lever | 211 |
 
-**[Download a free 300-row sample (CSV)](ats-companies.csv)**: company, platform, board slug, careers-page URL and the open-job count when last checked (November 2026), for every 14th company in the list.
+**[Download a free 300-row sample (CSV)](ats-companies.csv)**: company, platform, board slug, careers-page URL and the open-job count when last checked (November 2026), for every 14th company in the list. A separate random 300-company sample (company, platform, board slug, careers URL) is also on [Kaggle](https://www.kaggle.com/datasets/signalfeed/companies-hiring-on-greenhouse-lever-and-ashby) if you prefer working there.
 
-**Want all 4,483?** The [full dataset](https://signalfeed.gumroad.com/l/eriec) ($29) has every company, and adds top departments and locations with counts, example job titles, newest posting date, a one-row-per-department file and JSON, re-checked live on November 17, 2026. See exactly what you get first: [free 25-row sample (CSV)]({{ site.baseurl }}/downloads/full-dataset-sample-25.csv), same columns as the paid file.
+**Want the full list?** The [full dataset](https://signalfeed.gumroad.com/l/eriec) ($29) has the 4,375 of these companies that had at least one open role when re-checked on November 17, 2026, and adds top departments and locations with counts, example job titles, newest posting date, a one-row-per-department file and JSON, re-checked live on November 17, 2026. See exactly what you get first: [free 25-row sample (CSV)]({{ site.baseurl }}/downloads/full-dataset-sample-25.csv), same columns as the paid file.
 
 The board slug is what the public APIs take, so each row is one request away from that company's live jobs: see the [Greenhouse](greenhouse-jobs-api.md), [Lever](lever-jobs-api.md) and [Ashby](ashby-jobs-api.md) guides.
 
