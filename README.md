@@ -147,7 +147,7 @@ Apify has a free plan with monthly credit. *(Some links may be affiliate links; 
 
 ## Want it done for you?
 
-I extract data from websites, careers pages and APIs to order, delivered as a clean spreadsheet: [custom data extraction on Fiverr](https://www.fiverr.com/arabinowe/scrape-any-website-or-api-into-a-clean-spreadsheet-in-24-hours), a [B2B lead list built from company websites](https://www.fiverr.com/arabinowe/build-a-b2b-lead-list-with-emails-and-phones-from-company-websites), or [your website and PDFs as AI-ready Markdown for ChatGPT or RAG](https://www.fiverr.com/arabinowe/convert-your-website-and-pdfs-into-ai-ready-markdown-for-chatgpt-or-rag), or [your PDFs as clean Markdown or JSON for RAG and LLMs](https://www.fiverr.com/arabinowe/convert-your-pdfs-into-clean-markdown-or-json-for-rag-and-llms).
+I extract data from websites, careers pages and APIs to order, delivered as a clean spreadsheet: [custom data extraction on Fiverr](https://www.fiverr.com/arabinowe/scrape-any-website-or-api-into-a-clean-spreadsheet-in-24-hours), a [B2B lead list built from company websites](https://www.fiverr.com/arabinowe/build-a-b2b-lead-list-with-emails-and-phones-from-company-websites), or [your website and PDFs as AI-ready Markdown for ChatGPT or RAG](https://www.fiverr.com/arabinowe/convert-your-website-and-pdfs-into-ai-ready-markdown-for-chatgpt-or-rag), or [your PDFs as clean Markdown or JSON for RAG and LLMs](https://www.fiverr.com/arabinowe/convert-your-website-and-pdfs-into-ai-ready-markdown-for-chatgpt-or-rag).
 
 ## Disclosure
 

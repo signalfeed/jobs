@@ -37,7 +37,7 @@ Pitfalls: sitemap indexes point to more sitemaps (follow them), some pages rende
 
 ## Option 3: Done for you
 
-I convert websites, help centers and PDF libraries into chunk-ready Markdown and JSONL for custom GPTs, Claude Projects and vector databases: **[AI-ready data from your website and PDFs on Fiverr](https://www.fiverr.com/arabinowe/convert-your-website-and-pdfs-into-ai-ready-markdown-for-chatgpt-or-rag)**. PDFs only? See [PDFs to clean Markdown or JSON](https://www.fiverr.com/arabinowe/convert-your-pdfs-into-clean-markdown-or-json-for-rag-and-llms).
+I convert websites, help centers and PDF libraries into chunk-ready Markdown and JSONL for custom GPTs, Claude Projects and vector databases: **[AI-ready data from your website and PDFs on Fiverr](https://www.fiverr.com/arabinowe/convert-your-website-and-pdfs-into-ai-ready-markdown-for-chatgpt-or-rag)**. PDFs only? See [PDFs to clean Markdown or JSON](https://www.fiverr.com/arabinowe/convert-your-website-and-pdfs-into-ai-ready-markdown-for-chatgpt-or-rag).
 
 ## Tips for better answers
 
